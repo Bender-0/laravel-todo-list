@@ -3,7 +3,7 @@
 ## About this Laravel app
 
 Simple Todo List app made with: 
-- Laravel 10.
+- Laravel 10
 - Livewire
 - Tailwind
 - AlpineJS
